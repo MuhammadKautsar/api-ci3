@@ -1,0 +1,1 @@
+Example API Login Register CRUD using CodeIgniter 3 and Firebase JWT PHP
